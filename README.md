@@ -9,7 +9,7 @@
 
 
 
-* Jack #gitClon
+* Jack #gitClon #gitCommit
 
 
 * Ifocop team DIW 10 JS, by MarieMnry
