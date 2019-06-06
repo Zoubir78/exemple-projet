@@ -6,7 +6,7 @@
 * Pas de bras, pas de chocolat!
 
 
-*Jack #gitClon
+* Jack #gitClon
 
 
 * Ifocop team DIW 10 JS, by MarieMnry
