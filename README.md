@@ -18,6 +18,7 @@
 * I am not in danger, I am the danger Skyler
 * Pour vaincre le parasite, il faut connaitre le parasite.
 * J'ai jeté un froid ou ça vient de moi.
+* (suite...)
 
 
 
