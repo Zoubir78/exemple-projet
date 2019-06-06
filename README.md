@@ -16,6 +16,7 @@
 
 * L'an dernier j'étais encore un peu prétentieux, cette année je suis parfait.
 * I am not in danger, I am the danger Skyler
+* Pour vaincre le parasite, il faut connaitre le parasite.
 
 
 
