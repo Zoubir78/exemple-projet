@@ -5,3 +5,4 @@
 * Je connais une technique pour vaincre trois hommes avec des feuilles mortes... Vous avez de la chance vous êtes que deux. *
 
 * (A compléter)
+* Pas de bras, pas de chocolat!
