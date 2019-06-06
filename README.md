@@ -6,7 +6,7 @@
 * Pas de bras, pas de chocolat!
 
 
-*Jack #gitClone
+*Jack #gitClon
 
 
 * Ifocop team DIW 10 JS, by MarieMnry
@@ -17,6 +17,8 @@
 * L'an dernier j'étais encore un peu prétentieux, cette année je suis parfait.
 * I am not in danger, I am the danger Skyler
 * Pour vaincre le parasite, il faut connaitre le parasite.
+
+* J'ai jeté un froid ou ça vient de moi.
 * BLA
 
 
