@@ -1,4 +1,4 @@
 # Citations favorites
 
 * La vie c'est comme une boite de chocolat !
-* (A compléter)
+* Real living, is living for others.
