@@ -13,3 +13,8 @@
 * Real living, is living for others.
 * Youpie
 
+
+* L'an dernier j'étais encore un peu prétentieux, cette année je suis parfait.
+
+
+
