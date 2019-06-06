@@ -1,3 +1,3 @@
-# Ceci est un test
+# Citations favorites
 
-Un test de projet sur github.
+* La vie c'est comme une boite de chocolat !
